@@ -1,9 +1,0 @@
-# Copy this file to ".env" and fill in your key.
-# Get a FREE Groq API key (no credit card needed) at: https://console.groq.com/keys
-GROQ_API_KEY=your_groq_api_key_here
-
-# Model to use (all free on Groq). Good default:
-GROQ_MODEL=llama-3.3-70b-versatile
-
-# Port the server runs on (Render/Railway set this automatically in production)
-PORT=3000
