@@ -7,6 +7,6 @@ services:
     startCommand: npm start
     envVars:
       - key: GROQ_API_KEY
-        sync: false
+        sync: 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
       - key: GROQ_MODEL
         value: llama-3.3-70b-versatile
