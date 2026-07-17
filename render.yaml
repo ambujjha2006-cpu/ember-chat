@@ -8,6 +8,5 @@ services:
     envVars:
       - key: GROQ_API_KEY
         value: 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
-        sync: false
       - key: GROQ_MODEL
         value: llama-3.3-70b-versatile
